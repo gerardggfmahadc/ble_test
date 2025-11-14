@@ -36,7 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   permission_handler: ^11.3.1
   flutter_riverpod: ^2.6.1
-  beacon_flutter: ^2.0.0
+  flutter_beacon: ^0.5.1
 
 dev_dependencies:
   flutter_test:
